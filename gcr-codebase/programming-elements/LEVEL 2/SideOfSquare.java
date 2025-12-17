@@ -4,9 +4,9 @@ public class SideOfSquare{
 		
 		Scanner input = new Scanner(System.in); 
 		
-		int perimeter = input.nextInt();
+		double perimeter = input.nextDouble();
 		
-		int side = (int)(perimeter/4);
+		double side = (perimeter/4);
 		
 		System.out.println("The length of the side is " + side + " whose perimeter is " + perimeter);
 	}
