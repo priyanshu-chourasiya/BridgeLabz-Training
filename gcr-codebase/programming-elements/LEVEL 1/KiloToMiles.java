@@ -9,8 +9,7 @@ class KiloToMiles{
 		// declaring a double kilo which needs to converted to miles
 		double kilo = 10.8;
 		
-		// decalaring a miles variable which will store converted value from kilometers
-		// to miles
+		// decalaring a miles variable which will store converted value from kilometers to miles
 		double miles;
 		
 		// using formula to convert kilometers to miles
