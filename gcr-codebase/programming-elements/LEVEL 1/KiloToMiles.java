@@ -6,7 +6,7 @@ class KiloToMiles{
 		// declaring formula to convert kilometers to miles
 		// 1km = 1.6 miles
 		
-		// declaring a double kilo which needs to converted to miles
+		// declaring a double kilo which needs to be from converted to miles
 		double kilo = 10.8;
 		
 		// decalaring a miles variable which will store converted value from kilometers to miles
