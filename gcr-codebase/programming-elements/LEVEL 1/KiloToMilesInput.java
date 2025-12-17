@@ -21,6 +21,7 @@ public class KiloToMilesInput{
 		
 		// displaying result
 		System.out.println("The total miles is " + toMiles +  " mile for the given " + kilometers + " km");
-	
+		
+		input.close();
 	}
 }
