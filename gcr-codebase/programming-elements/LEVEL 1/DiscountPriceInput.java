@@ -1,4 +1,4 @@
-
+import java.util.*;
 public class DiscountPriceInput{
 	public static void main(String args[]){	
 		
