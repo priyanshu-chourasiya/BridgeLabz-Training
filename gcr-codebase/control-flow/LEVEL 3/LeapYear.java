@@ -10,7 +10,10 @@ public class LeapYear{
 		System.out.print("Enter year : ");
 		int leapyear = input.nextInt();
 		
+		// checking conditions
 		if(leapyear >= 1582){
+			
+			// 400 modulo
 			if(leapyear%400 == 0){
 				System.out.print("LeapYear");
 			}
