@@ -20,11 +20,17 @@ public class LargestOfThree{
 		// checking the largest number among three
 		if(num1 >= num2 && num1 >= num3){
 			System.out.print("Is the first number the largest? " + true);
+			System.out.print("Is the second number the largest " + false);
+			System.out.print("Is the third number the largest? " + false);
 		}
 		else if(num2 >= num1 & num2 >= num3){
+			System.out.print("Is the first number the largest? " + false);
 			System.out.print("Is the second number the largest " + true);
+			System.out.print("Is the third number the largest? " + false);
 		}
 		else{
+			System.out.print("Is the first number the largest? " + false);
+			System.out.print("Is the second number the largest " + false);
 			System.out.print("Is the third number the largest? " + true);
 		}
 		
