@@ -15,5 +15,8 @@ public class DivisibleByFive{
 		else{
 			System.out.println("Is the number " + number + " divisible by 5? " + false);
 		}
+		
+		// closing input
+		input.close();
 	}
 }
