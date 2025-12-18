@@ -24,5 +24,8 @@ public class FirstSmallestOfThree{
 		else{
 			System.out.print("Is the first number the smallest? " + false);
 		}
+		
+		// closing input
+		input.close();
 	}
 }
