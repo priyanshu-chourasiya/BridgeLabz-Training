@@ -36,7 +36,6 @@ public class DigitFrequency {
         }
 
         //Display frequency
-        System.out.println("\nDigit Frequency:");
         for (int i = 0; i < 10; i++) {
             if (frequency[i] > 0) {
                 System.out.println("Digit " + i + " occurs " + frequency[i] + " times");
