@@ -44,4 +44,4 @@ public class FactorsOfNum{
 		// closing input
 		input.close();
 	}
-}
+}// git reset --soft HEAD~1
