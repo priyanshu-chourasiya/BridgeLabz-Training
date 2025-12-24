@@ -7,4 +7,6 @@ Day 1 : 15 Dec 2025
 
 Day 10 : 
   Did 4 leetcode questions
-  Did 2 scenario based question
+  Did 2 scenario based questions
+      Cafe simulation
+      BMI checker
