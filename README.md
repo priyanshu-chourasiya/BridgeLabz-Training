@@ -21,3 +21,11 @@ This repository contains my Core Java learning journey as part of the BridgeLabz
 - Solved problems involving calculations and iterative logic.
 
 ---
+### Day 3 – Number & Mathematical Problems  
+(Date: 18-Dec-2025)
+
+- Practiced mathematical problem-solving using Java.
+- Learned nested loops, logical conditions.
+- Solved problems like factorial, prime numbers, FizzBuzz, Armstrong numbers, and sum calculations.
+
+---
