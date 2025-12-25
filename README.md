@@ -4,7 +4,7 @@ This repository contains my Core Java learning journey as part of the BridgeLabz
 
 ---
 
-### 🗓 Day 1 – Initial Setup & Basics  
+### Day 1 – Initial Setup & Basics  
 *(Date: 16-Dec-2025)*
 
 - Learned Git basics and repository setup.
@@ -13,7 +13,7 @@ This repository contains my Core Java learning journey as part of the BridgeLabz
 
 ---
 
-### 🗓 Day 2 – Conditional Statements & Loops  
+### Day 2 – Conditional Statements & Loops  
 *(Date: 17-Dec-2025)*
 
 - Learned if-else, switch-case statements.
