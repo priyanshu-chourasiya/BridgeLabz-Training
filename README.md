@@ -11,7 +11,7 @@ This repository contains my learning journey as part of the BridgeLabz program.
 - Practiced basic Java syntax, variables, data types, and simple arithmetic.
 - Solved basic coding problems to get familiar with Java input/output.
 
-Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisite
+[Program prerequisite code](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisite)  
 
 ---
 
@@ -22,7 +22,7 @@ Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-jav
 - Practiced loops: for, while, do-while.
 - Solved problems involving calculations and iterative logic.
 
-Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+[Conditional Loops](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)  
 
 ---
 ### Day 3 – Number & Mathematical Problems  
@@ -32,7 +32,7 @@ Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-jav
 - Learned nested loops, logical conditions.
 - Solved problems like factorial, prime numbers, FizzBuzz, Armstrong numbers, and sum calculations.
 
-Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements
+[Program elements](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)  
 
 ---
 ### Day 4 – Arrays & Multi-dimensional Arrays  
@@ -42,7 +42,7 @@ Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-jav
 - Practiced array traversal and basic array operations.
 - Solved problems like finding missing elements, largest/smallest numbers, and basic array-based logic.
 
-Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays
+[Arrays](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)  
 
 ---
 
@@ -52,7 +52,7 @@ Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-jav
 - Learned to use utility functions and methods for reusable code.
 - Solved scenario-based problems like BMI calculation, unit conversion, and validation checks.
 
-Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods
+[Methods](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)  
 
 ---
 
@@ -62,7 +62,7 @@ Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-jav
 - Learned string handling, string methods, and text processing.
 - Solved problems like palindrome check, counting vowels/consonants, and substring manipulations.
 
-Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings
+[Strings](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)  
 
 ---
 
@@ -73,7 +73,7 @@ Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-jav
 - Practiced parameter passing and return types.
 - Solved utility problems to reinforce method-based logic.
 
-Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra
+[Extras](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)  
 
 ---
 
@@ -82,6 +82,8 @@ Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-jav
 
 - Applied learned concepts to scenario-based problems.
 - Solved small projects like games, BMI calculator, and other real-world examples.
+
+[Strings](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
   
 ---
 
@@ -91,6 +93,6 @@ Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-jav
 - Did 4 leetcode questions
 - Did 2 Scenario based question (easy)
 
- Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
+ [Scenario Based](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
 
 ---
