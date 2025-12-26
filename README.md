@@ -91,7 +91,6 @@ Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-jav
 - Did 4 leetcode questions
 - Did 2 Scenario based question (easy)
 
-- Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
-- Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase
+ Link : https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase
 
 ---
