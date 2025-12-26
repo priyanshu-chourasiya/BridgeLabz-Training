@@ -97,12 +97,12 @@ This repository contains my learning journey as part of the BridgeLabz program.
 
 ---
 
-### Day 10 – Object Oriented programming with Leetcode  
+### Day 10 – Object Oriented programming with Scenario based questions  
 **(Date: 26-Dec-2025)**
 
-- Did 4 leetcode questions
-- Did 2 Scenario based question (easy)
+- Did some basic OOPS questions
+- Did 3 Scenario based question (easy)
 
- [Leetcode](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/leet-code-codebase/WEEK%201) 
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/WEEK%201) 
 
 ---
