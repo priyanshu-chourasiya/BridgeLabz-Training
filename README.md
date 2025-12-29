@@ -22,3 +22,12 @@
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/levelone) 
 
 ---
+
+### Day 12 – Object Oriented programming with this, final and static
+**(Date: 29-Dec-2025)**
+
+- Did some OOPS questions on final, static and this 
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/languagefeatures) 
+
+---
