@@ -7,7 +7,7 @@ public class MetroSmartCard {
         double balance = 200.0;
 
         while (balance > 0) {
-            System.out.println("\nCurrent Balance: ₹" + balance);
+            System.out.println("\nCurrent Balance: " + balance);
             System.out.print("Enter distance in km (or -1 to quit): ");
             int distance = sc.nextInt();
 
@@ -16,14 +16,13 @@ public class MetroSmartCard {
                 break;
             }
 
-            double fare = (distance <= 5) ? 20 :
-                          (distance <= 15) ? 40 : 60;
+            double fare = (distance <= 5) ? 20 : (distance <= 15) ? 40 : 60;
 
             if (fare <= balance) {
                 balance -= fare;
-                System.out.println("Fare deducted: ₹" + fare);
+                System.out.println("Fare deducted: " + fare);
             } else {
-                System.out.println("Insufficient balance. Card exhausted.");
+                System.out.println("Insufficient balance Card finished.");
                 break;
             }
         }
