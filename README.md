@@ -118,7 +118,7 @@ This repository contains my learning journey as part of the BridgeLabz program.
 ---
 
 ### Day 12 – Scenario based questions
-**(Date: 27-Dec-2025)**
+**(Date: 29-Dec-2025)**
 
 - Did 5 scenario based questions
 
