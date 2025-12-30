@@ -126,3 +126,14 @@ This repository contains my learning journey as part of the BridgeLabz program.
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/WEEK%202) 
 
 ---
+
+### Day 13 – Scenario based questions with OOPs
+**(Date: 30-Dec-2025)**
+
+- Did 5 scenario based questions
+- Did some java OOPs questions on java language features
+- leanred about class diagrams 
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/WEEK%202) 
+
+---
