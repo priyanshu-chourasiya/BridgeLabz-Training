@@ -31,3 +31,12 @@
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/languagefeatures) 
 
 ---
+
+### Day 13 – Object Oriented programming using language features
+**(Date: 30-Dec-2025)**
+
+- Did some OOPS questions and learned about class diagrams and class representation 
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodeling) 
+
+---
