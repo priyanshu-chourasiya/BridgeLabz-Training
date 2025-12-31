@@ -40,3 +40,12 @@
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/objectmodeling) 
 
 ---
+
+### Day 14 – Object Oriented programming using inheritance
+**(Date: 31-Dec-2025)**
+
+- Did OOPS questions and learned about inheritance
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance) 
+
+---
