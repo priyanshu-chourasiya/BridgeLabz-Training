@@ -49,3 +49,13 @@
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance) 
 
 ---
+
+### Day 15 – Object Oriented programming using polymorphism
+**(Date: 1-Jan-2026)**
+
+- Did OOPS questions and learned about polymorphism and instance of
+- completeted 4 OOPs based scenario based questions
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/polymorphism) 
+
+---
