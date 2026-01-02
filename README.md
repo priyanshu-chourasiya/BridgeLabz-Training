@@ -59,3 +59,13 @@
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/polymorphism) 
 
 ---
+
+### Day 16 – Object Oriented programming scenario based questions
+**(Date: 2-Jan-2026)**
+
+- completeted OOPs based scenario based questions
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week1) 
+
+---
+
