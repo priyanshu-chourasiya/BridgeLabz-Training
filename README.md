@@ -177,3 +177,13 @@ This repository contains my learning journey as part of the BridgeLabz program.
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week1) 
 
 ---
+
+### Day 18 – Sorting Algos with Scenario based questions
+**(Date: 5-Jan-2026)**
+
+- Did sorting questions
+- completeted OOPs based scenario based questions
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week1) 
+
+---
