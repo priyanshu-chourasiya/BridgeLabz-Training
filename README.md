@@ -21,3 +21,12 @@ This repository contains my learning journey as part of the BridgeLabz program.
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPactice/src/Hashmaps) 
 
 ---
+
+### Day 18 – Sorting Algorithms (DSA)
+**(Date: 5-Jan-2026)**
+
+- Leanred sorrting algos
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPactice/src/Sorting) 
+
+---
