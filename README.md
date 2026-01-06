@@ -54,7 +54,7 @@
 **(Date: 1-Jan-2026)**
 
 - Did OOPS questions and learned about polymorphism and instance of
-- completeted 4 OOPs based scenario based questions
+- completed 4 OOPs based scenario based questions
 
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/polymorphism) 
 
@@ -63,7 +63,7 @@
 ### Day 16 – Object Oriented programming scenario based questions
 **(Date: 2-Jan-2026)**
 
-- completeted OOPs based scenario based questions
+- completed OOPs based scenario based questions
 
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week1) 
 
@@ -72,7 +72,7 @@
 ### Day 17 – Object Oriented programming scenario based questions
 **(Date: 3-Jan-2026)**
 
-- completeted OOPs based scenario based questions
+- completed OOPs based scenario based questions
 
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week1) 
 
@@ -81,7 +81,16 @@
 ### Day 18 – Object Oriented programming scenario based questions
 **(Date: 5-Jan-2026)**
 
-- completeted OOPs based scenario based questions
+- completed OOPs based scenario based questions
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week2) 
+
+---
+
+### Day 19 – Object Oriented programming scenario based questions
+**(Date: 6-Jan-2026)**
+
+- completed OOPs based scenario based questions
 
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week2) 
 
