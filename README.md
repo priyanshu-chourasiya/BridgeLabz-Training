@@ -16,7 +16,7 @@ This repository contains my learning journey as part of the BridgeLabz program.
 **(Date: 3-Jan-2026)**
 
 - Did questions of Stacks, queues and hashmaps
-- leanred builtin stack, queue and hashmap
+- Learned builtin stack, queue and hashmap
 
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPactice/src/Hashmaps) 
 
@@ -25,8 +25,18 @@ This repository contains my learning journey as part of the BridgeLabz program.
 ### Day 18 – Sorting Algorithms (DSA)
 **(Date: 5-Jan-2026)**
 
-- Leanred sorrting algos
+- Learned sorting algos
 
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPactice/src/Sorting) 
+
+---
+
+### Day 19 – Searching Algos (DSA)
+**(Date: 6-Jan-2026)**
+
+- Learned searching alogs - Linear and binary search
+- StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPactice/src) 
 
 ---
