@@ -96,3 +96,11 @@
 
 ---
 
+### Day 20 – Object Oriented programming scenario based questions
+**(Date: 7-Jan-2026)**
+
+- completed OOPs based scenario based questions
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week2) 
+
+---
