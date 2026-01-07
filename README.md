@@ -1,210 +1,91 @@
-# BridgeLabz Training 
+# BridgeLabz Training Journey
 
-This repository contains my learning journey as part of the BridgeLabz program.  
+> A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
 
----
+##  Training Overview
 
-### Day 1 – Initial Setup & Basics  
-**(Date: 16-Dec-2025)**
-
-- Learned Git basics and repository setup.
-- Practiced basic Java syntax, variables, data types, and simple arithmetic.
-- Solved basic coding problems to get familiar with Java input/output.
-
-[Program prerequisite code](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-prerequisite)  
+This repository documents my learning journey at BridgeLabz, spanning from **December 15, 2025** to present. The training is organized into structured branches covering different aspects of Java development.
 
 ---
 
-### Day 2 – Conditional Statements & Loops  
-**(Date: 17-Dec-2025)**
+##  Repository Branches
 
-- Learned if-else, switch-case statements.
-- Practiced loops: for, while, do-while.
-- Solved problems involving calculations and iterative logic.
+### 🔹 [core-java-practice](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice)
+**Week 1-2**: Fundamentals of Java Programming
 
-[Conditional Loops](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)  
+### 🔹 [java-oops-practice](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice)
+**Week 2**: Object-Oriented Programming
 
----
-### Day 3 – Number & Mathematical Problems  
-(Date: 18-Dec-2025)
-
-- Practiced mathematical problem-solving using Java.
-- Learned nested loops, logical conditions.
-- Solved problems like factorial, prime numbers, FizzBuzz, Armstrong numbers, and sum calculations.
-
-[Program elements](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/programming-elements)  
-
----
-### Day 4 – Arrays & Multi-dimensional Arrays  
-**(Date: 19-Dec-2025)**
-
-- Learned arrays: single-dimensional and multi-dimensional.
-- Practiced array traversal and basic array operations.
-- Solved problems like finding missing elements, largest/smallest numbers, and basic array-based logic.
-
-[Arrays](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/arrays)  
-
+### 🔹 [dsa-practice](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice)
+**Week 3**: Data-Structure-Algorithm
 ---
 
-### Day 5 – Advanced Programs & Utilities  
-**(Date: 20-Dec-2025)**
+##  Key Concepts Covered
 
-- Learned to use utility functions and methods for reusable code.
-- Solved scenario-based problems like BMI calculation, unit conversion, and validation checks.
+### Core Java (core-java-practice)
+-  **Fundamentals**: Variables, data types, operators
+-  **Control Structures**: If-else, loops, switch-case
+-  **Arrays**: Single & multi-dimensional arrays
+-  **Methods**: Parameters, return types, overloading
+-  **Strings**: Manipulation, comparisons, exceptions
+-  **Problem Solving**: LeetCode challenges, real-world scenarios
 
-[Methods](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/Methods)  
+### Object-Oriented Programming (java-oops-practice)
+-  **Classes & Objects**: Creating and instantiating objects
+-  **Encapsulation**: Data hiding and access modifiers
+-  **PolyMorphism**: Method overLoading and overriding 
+-  **Constructors**: Default, parameterized, overloading
+-  **Abstraction**: Interface-based design patterns
 
+### Data-Structure-Algorithm (dsa-practice)
+- **Linked List** : Dynamic node-based data structure, Singly,doubly,circular.
+- **Stack** : LIFO-based linear data structure.
+- **Queue** : FIFO-based linear data structure. 
 ---
 
-### Day 6 – Strings & Text Manipulation  
-**(Date: 22-Dec-2025)**
+## Scenario-based 
+- Explore real time problem and learn the approach.
+- Think about different solution and problem.
 
-- Learned string handling, string methods, and text processing.
-- Solved problems like palindrome check, counting vowels/consonants, and substring manipulations.
+# Learning Days 
 
-[Strings](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)  
+## Week1
+```
+ | 15-dec  |   Learn Git and Github Setup |   Create Repository ,git commands |
+ | 16-dec  |   Basics Java Fundamentals   |   10 programs prerequisites       |
+ | 17-dec  |     Programming elements     |   31 program(level1 & Level2)     |
+ | 18-dec  |       Control Flows          |   43 programss (level1,2& 3)      |
+ | 19-dec  |         Arrays               |   18 program(level1 & Level2)     |
+ | 20-dec  |         Methods              |   35 program(level1, 2 & 3)       |
+```
+--------
 
----
+## Week2
+```
+| 22-dec  |         Strings              |   30 program(level, 2 & 3)        |
+| 23-dec  |  Built-In & String Handling  |   12 programs                     |
+| 24-dec  |   Leetcode & scenario-based  |   3 leetcode + 2 scenario based   |
+| 26-dec  |Scenario-based & OOPs Concept |   5 scenario-based &10 programs   |
+| 27-dec  |       Constructor            |   13 programs & theory            |
+```
+---------
 
-### Day 7 – Methods & Reusable Logic  
-**(Date: 21-Dec-2025)**
+# Week-3
+```
+| 29-dec  |   Scenario & Static Keyword  |   5 scenario & 07 programs        |
+| 30-dec  |  Scenario & object modelling |   5 scenario & 10 programs        |
+| 31-dec  |    Scenario & inheritance    |   5 scenario & 11 programs        |
+| 01-Jan  |Oops Scenario & Encapsulation |   5 scenario & 08 programs        |
+| 02-Jan  |  Oops Scenario & LinkedList  |   5 scenario & 05 programs        |
+| 03-Jan  | Oops Scenario Based Question |   2 scenario & some questions     |
+| 04-Jan  |       StackAndQueues         |  5 stack and queues questions     |
+  ```
+------------
 
-- Learned to create and use Java methods.
-- Practiced parameter passing and return types.
-- Solved utility problems to reinforce method-based logic.
+# Week 4
+```
 
-[Extras](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/extra)  
+| 05-Jan  |   HashMap & Sceario Based   |      2 scenario 5 questions       |
+| 06-Jan  |OOps Sceario Based & sorting|     5 scenario based questions       |
 
----
-
-### Day 8 – Strings questions  
-**(Date: 23-Dec-2025)**
-
-- Applied learned concepts to scenario-based problems.
-- Solved small projects like games, BMI calculator, and other real-world examples.
-
-[Strings](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/gcr-codebase/strings)
-  
----
-
-### Day 9 – Scenario Based Question with Leetcode  
-**(Date: 24-Dec-2025)**
-
-- Did 4 leetcode questions
-- Did 2 Scenario based question (easy)
-
- [Scenario Based](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase) 
-
----
-
-### Day 10 – Object Oriented programming with Scenario based questions  
-**(Date: 26-Dec-2025)**
-
-- Did some basic OOPS questions
-- Did 3 Scenario based question (easy)
-
- [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/WEEK%201) 
-
----
-
-### Day 11 – Object Oriented programming with Constructors
-**(Date: 27-Dec-2025)**
-
-- Did some OOPS constructors
-- Did 3 Scenario based question (easy)
-
- [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/constructor/levelone) 
-
----
-
-### Day 12 – Scenario based questions with OOPs
-**(Date: 29-Dec-2025)**
-
-- Did 5 scenario based questions
-- Did some java OOPs questions on final, static and this keyword 
-
- [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/WEEK%202) 
-
----
-
-### Day 13 – Scenario based questions with OOPs
-**(Date: 30-Dec-2025)**
-
-- Did 5 scenario based questions
-- Did some java OOPs questions on java language features
-- leanred about class diagrams 
-
- [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice/scenario-based-codebase/WEEK%202) 
-
----
-
-### Day 14 – Scenario based questions with OOPs
-**(Date: 31-Dec-2025)**
-
-- Did 5 scenario based questions
-- Did some java OOPs questions on inheritance
-
- [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/inheritance) 
-
----
-
-### Day 15 – Object Oriented programming using polymorphism
-**(Date: 1-Jan-2026)**
-
-- Did OOPS questions and learned about polymorphism and instance of
-- completeted 4 OOPs based scenario based questions
-
- [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/gcr-codebase/JavaOopsConcept/src/com/polymorphism) 
-
----
-
-### Day 16 – Data Structures with Scenario based questions
-**(Date: 2-Jan-2026)**
-
-- Did LinkedList questions
-- completeted OOPs based scenario based questions
-
- [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week1) 
-
----
-
-### Day 17 – Data Structures with Scenario based questions
-**(Date: 3-Jan-2026)**
-
-- Did Stack, queue and hashmap questions
-- completeted OOPs based scenario based questions
-
- [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week1) 
-
----
-
-### Day 18 – Sorting Algos with Scenario based questions
-**(Date: 5-Jan-2026)**
-
-- Did sorting questions
-- completeted OOPs based scenario based questions
-
- [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week1) 
-
----
-
-### Day 19 – Searching Algos with Scenario based questions
-**(Date: 6-Jan-2026)**
-
-- Did linear and binary search questions 
-- leanred StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
-- completeted OOPs based scenario based questions
-
- [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPactice/src) 
-
----
-
-### Day 20 – Time Complexity with Scenario based questions
-**(Date: 7-Jan-2026)**
-
-- Learned time complexity
-- Solved 4 OOPs scenario based questions
-
- [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPactice/src) 
-
----
+```
