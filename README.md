@@ -187,3 +187,14 @@ This repository contains my learning journey as part of the BridgeLabz program.
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week1) 
 
 ---
+
+### Day 19 – Searching Algos with Scenario based questions
+**(Date: 6-Jan-2026)**
+
+- Did linear and binary search questions 
+- leanred StringBuilder, StringBuffer, BufferedReader, FileReader, InputStreamReader
+- completeted OOPs based scenario based questions
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPactice/src) 
+
+---
