@@ -198,3 +198,13 @@ This repository contains my learning journey as part of the BridgeLabz program.
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPactice/src) 
 
 ---
+
+### Day 20 – Time Complexity with Scenario based questions
+**(Date: 7-Jan-2026)**
+
+- Learned time complexity
+- Solved 4 OOPs scenario based questions
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/JavaDsaPactice/src) 
+
+---
