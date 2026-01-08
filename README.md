@@ -40,7 +40,11 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ### Data-Structure-Algorithm (dsa-practice)
 - **Linked List** : Dynamic node-based data structure, Singly,doubly,circular.
 - **Stack** : LIFO-based linear data structure.
-- **Queue** : FIFO-based linear data structure. 
+- **Searching** : Binary search and linear search 
+- **Hashmaps** : Key value pair based data structure.
+- **String** : String buffer and String builder.
+- **Time Complexity** : various time complexities of algorithms in data structure.
+
 ---
 
 ## Scenario-based 
@@ -85,7 +89,8 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ## Week 4
 ```
 
-| 05-Jan  |   HashMap & Sceario Based   |      2 scenario 5 questions       |
-| 06-Jan  |OOps Sceario Based & sorting |     5 scenario based questions    |
+| 05-Jan  |   HashMap & Sceario Based      |      2 scenario 5 questions       |
+| 06-Jan  |OOps Sceario Based & sorting    |     5 scenario based questions    |
+| 07-Jan  |OOps Sceario Based & complexity |     3 scenario 4 questions        |
 
 ```
