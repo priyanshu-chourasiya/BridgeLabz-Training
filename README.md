@@ -70,7 +70,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ```
 ---------
 
-# Week-3
+## Week-3
 ```
 | 29-dec  |   Scenario & Static Keyword  |   5 scenario & 07 programs        |
 | 30-dec  |  Scenario & object modelling |   5 scenario & 10 programs        |
@@ -82,10 +82,10 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
   ```
 ------------
 
-# Week 4
+## Week 4
 ```
 
 | 05-Jan  |   HashMap & Sceario Based   |      2 scenario 5 questions       |
-| 06-Jan  |OOps Sceario Based & sorting|     5 scenario based questions       |
+| 06-Jan  |OOps Sceario Based & sorting |     5 scenario based questions    |
 
 ```
