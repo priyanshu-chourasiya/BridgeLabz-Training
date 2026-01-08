@@ -42,7 +42,7 @@ This repository contains my learning journey as part of the BridgeLabz program.
 ---
 
 ### Day 20 – Time Complexity (DSA)
-**(Date: 6-Jan-2026)**
+**(Date: 7-Jan-2026)**
 
 - Learned various time complexities
 
