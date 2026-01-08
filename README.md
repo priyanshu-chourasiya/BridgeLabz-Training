@@ -62,6 +62,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
  | 18-dec  |       Control Flows          |   43 programss (level1,2& 3)      |
  | 19-dec  |         Arrays               |   18 program(level1 & Level2)     |
  | 20-dec  |         Methods              |   35 program(level1, 2 & 3)       |
+ 
 ```
 --------
 
@@ -72,6 +73,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 | 24-dec  |   Leetcode & scenario-based  |   3 leetcode + 2 scenario based   |
 | 26-dec  |Scenario-based & OOPs Concept |   5 scenario-based &10 programs   |
 | 27-dec  |       Constructor            |   13 programs & theory            |
+
 ```
 ---------
 
@@ -84,6 +86,7 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 | 02-Jan  |  Oops Scenario & LinkedList  |   5 scenario & 05 programs        |
 | 03-Jan  | Oops Scenario Based Question |   2 scenario & some questions     |
 | 04-Jan  |       StackAndQueues         |  5 stack and queues questions     |
+
   ```
 ------------
 
@@ -93,5 +96,6 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 | 05-Jan  |   HashMap & Sceario Based      |      2 scenario 5 questions       |
 | 06-Jan  |OOps Sceario Based & sorting    |     5 scenario based questions    |
 | 07-Jan  |OOps Sceario Based & complexity |     3 scenario 4 questions        |
+| 08-Jan  |OOps Sceario Based              |     2 scenario questions          |
 
 ```
