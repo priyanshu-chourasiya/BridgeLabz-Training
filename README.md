@@ -95,4 +95,5 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 | 07-Jan  |OOps Sceario Based & complexity |     3 scenario 4 questions        |
 | 08-Jan  |OOps Sceario Based              |     2 scenario questions          |
 | 09-Jan  |OOps Sceario Based              |     2 scenario questions          |
+| 10-Jan  |DSA Sceario Based               |     3 scenario questions          |
 ```
