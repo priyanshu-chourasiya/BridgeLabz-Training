@@ -89,11 +89,16 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ## Week 4
 ```
-
 | 05-Jan  |   HashMap & Sceario Based      |     2 scenario 5 questions        |
 | 06-Jan  |OOps Sceario Based & sorting    |     5 scenario based questions    |
 | 07-Jan  |OOps Sceario Based & complexity |     3 scenario 4 questions        |
 | 08-Jan  |OOps Sceario Based              |     2 scenario questions          |
 | 09-Jan  |OOps Sceario Based              |     2 scenario questions          |
 | 10-Jan  |DSA Sceario Based               |     3 scenario questions          |
+```
+------------
+
+## Week 5
+```
+| 12-Jan  | OOPs and DSA secnario based    | 6 questions on scenario           |
 ```
