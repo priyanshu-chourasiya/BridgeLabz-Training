@@ -131,3 +131,12 @@
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week3) 
 
 ---
+
+### Day 24 – Object Oriented programming scenario based questions
+**(Date: 13-Jan-2026)**
+
+- completed OOPs based scenario based questions
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice/java-oops-practice/scenario-based-codebase/ScenarioBasedPractice/src/com/week3) 
+
+---
