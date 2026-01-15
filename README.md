@@ -101,4 +101,5 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ## Week 5
 ```
 | 12-Jan  | OOPs and DSA secnario based    | 6 questions on scenario         |
+| 13-Jan  | OOPs and DSA secnario based    | 5 questions on scenario         |
 ```
