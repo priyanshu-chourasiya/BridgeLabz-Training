@@ -49,6 +49,19 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - **Time Complexity** : various time complexities of algorithms in data structure.
 
 ### Java Collections (java-collections-practice)
+- **ArrayList** : Resizable array, fast random access.  
+- **LinkedList** : Doubly-linked list, fast insertions/deletions.  
+- **Vector** : Synchronized resizable array (thread-safe).  
+- **HashSet** : Unordered collection of unique elements.  
+- **LinkedHashSet** : Maintains insertion order, unique elements.  
+- **TreeSet** : Sorted set, no duplicates.  
+- **Queue (LinkedList)** : FIFO queue implementation.  
+- **PriorityQueue** : Elements ordered by priority.  
+- **ArrayDeque** : Double-ended queue, efficient add/remove at ends.  
+- **HashMap** : Key-value pairs, fast access by key.  
+- **LinkedHashMap** : Maintains insertion order of key-value pairs.  
+- **TreeMap** : Sorted map by keys.  
+- **Hashtable** : Thread-safe key-value map (legacy).  
 
 ---
 
