@@ -1,6 +1,6 @@
 # BridgeLabz Training Journey
 
-> A comprehensive Java programming training repository covering Core Java fundamentals to Object-Oriented Programming concepts.
+> A comprehensive Java programming training repository covering Core Java fundamentals to Java Collections.
 
 ##  Training Overview
 
@@ -14,11 +14,13 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 **Week 1-2**: Fundamentals of Java Programming
 
 ### 🔹 [java-oops-practice](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice)
-**Week 2**: Object-Oriented Programming
+**Week 2-3**: Object-Oriented Programming
 
 ### 🔹 [dsa-practice](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice)
-**Week 3**: Data-Structure-Algorithm
+**Week 3-4**: Data-Structure-Algorithm
 
+### 🔹 [java-collections-practice](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-collections-practice)
+**Week 5**: java-collections-practice
 ---
 
 ##  Key Concepts Covered
@@ -45,6 +47,30 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 - **Hashmaps** : Key value pair based data structure.
 - **String** : String buffer and String builder.
 - **Time Complexity** : various time complexities of algorithms in data structure.
+
+### Java Collections (java-collections-practice)
+
+#### Collection Framework Hierarchy
+
+Collection  
+├─ List  
+│  ├─ ArrayList  
+│  ├─ LinkedList  
+│  └─ Vector  
+├─ Set  
+│  ├─ HashSet  
+│  ├─ LinkedHashSet  
+│  └─ TreeSet  
+└─ Queue  
+   ├─ LinkedList  
+   ├─ PriorityQueue  
+   └─ ArrayDeque  
+
+Map (not extending Collection)  
+├─ HashMap  
+├─ LinkedHashMap  
+├─ TreeMap  
+└─ Hashtable  
 
 ---
 
