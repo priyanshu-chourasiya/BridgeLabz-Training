@@ -11,16 +11,16 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 ##  Repository Branches
 
 ### 🔹 [core-java-practice](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/core-java-practice)
-**Week 1-2**: Fundamentals of Java Programming
+**Week 1-2** : Fundamentals of Java Programming
 
 ### 🔹 [java-oops-practice](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-oops-practice)
-**Week 2-3**: Object-Oriented Programming
+**Week 2-3** : Object-Oriented Programming
 
 ### 🔹 [dsa-practice](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice)
-**Week 3-4**: Data-Structure-Algorithm
+**Week 3-4** : Data-Structure-Algorithm
 
 ### 🔹 [java-collections-practice](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-collections-practice)
-**Week 4-5**: java-collections-practice
+**Week 4-5** : java-collections-practice
 ---
 
 ##  Key Concepts Covered
