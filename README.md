@@ -50,28 +50,6 @@ This repository documents my learning journey at BridgeLabz, spanning from **Dec
 
 ### Java Collections (java-collections-practice)
 
-#### Collection Framework Hierarchy
-
-Collection  
-├─ List  
-│  ├─ ArrayList  
-│  ├─ LinkedList  
-│  └─ Vector  
-├─ Set  
-│  ├─ HashSet  
-│  ├─ LinkedHashSet  
-│  └─ TreeSet  
-└─ Queue  
-   ├─ LinkedList  
-   ├─ PriorityQueue  
-   └─ ArrayDeque  
-
-Map (not extending Collection)  
-├─ HashMap  
-├─ LinkedHashMap  
-├─ TreeMap  
-└─ Hashtable  
-
 ---
 
 ## Scenario-based 
