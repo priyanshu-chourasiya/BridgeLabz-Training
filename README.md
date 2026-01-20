@@ -72,7 +72,7 @@ Week 4-5: Java Collections Practice
 
 # Learning Days 
 
-## Week1
+## Week 1
 ```
  | 15-dec  |   Learn Git and Github Setup |   Create Repository ,git commands |
  | 16-dec  |   Basics Java Fundamentals   |   10 programs prerequisites       |
@@ -83,7 +83,7 @@ Week 4-5: Java Collections Practice
 ```
 --------
 
-## Week2
+## Week 2
 ```
 | 22-dec  |         Strings              |   30 program(level, 2 & 3)        |
 | 23-dec  |  Built-In & String Handling  |   12 programs                     |
@@ -93,7 +93,7 @@ Week 4-5: Java Collections Practice
 ```
 ---------
 
-## Week-3
+## Week 3
 ```
 | 29-dec  |   Scenario & Static Keyword  |   5 scenario & 07 programs        |
 | 30-dec  |  Scenario & object modelling |   5 scenario & 10 programs        |
@@ -123,4 +123,5 @@ Week 4-5: Java Collections Practice
 | 15-Jan  | Generics DSA secnario based    | 3 scenario 4 Generics           |
 | 16-Jan  | Collections DSA secnario based | 3 scenario 5 Collections        |
 | 17-Jan  | Collections DSA secnario based | 3 scenario 8 Collections        |
+| 17-Jan  | OOPs and DSA secnario based    | 3 scenario 3 scenario           |
 ```
