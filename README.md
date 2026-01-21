@@ -76,3 +76,30 @@ This repository contains my learning journey as part of the BridgeLabz program.
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBased/src/week1) 
 
 ---
+
+### Day 24 – Scenario Based Questions (DSA)
+**(Date: 16-Jan-2026)**
+
+- Solved DSA based Scenario based questions
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBased/src/week1) 
+
+---
+
+### Day 25 – Scenario Based Questions (DSA)
+**(Date: 19-Jan-2026)**
+
+- Solved DSA based Scenario based questions
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBased/src/week2) 
+
+---
+
+### Day 26 – Scenario Based Questions (DSA)
+**(Date: 20-Jan-2026)**
+
+- Solved DSA based Scenario based questions
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/DsaScenarioBased/src/week2) 
+
+---
