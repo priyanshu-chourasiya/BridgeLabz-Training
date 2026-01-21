@@ -19,3 +19,12 @@ This repository contains my learning journey as part of the BridgeLabz program.
  [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src) 
 
 ---
+
+### Day 3 – Collection
+**(Date: 19-Jan-2026)**
+
+- Question of Streams
+
+ [Link](https://github.com/priyanshu-chourasiya/BridgeLabz-Training/tree/java-collections-practice/java-collections-practice/gcr-codebase/JavaCollectionsPractice/src/Streams) 
+
+---
