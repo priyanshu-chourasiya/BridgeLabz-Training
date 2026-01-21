@@ -2,7 +2,7 @@ package ExceptionHandling;
 
 import java.util.Scanner;
 
-//Custom Exception
+
 class InvalidAgeException extends Exception {
  public InvalidAgeException(String message) {
      super(message);
@@ -11,7 +11,7 @@ class InvalidAgeException extends Exception {
 
 public class CustomException {
 
- // Method to validate age
+
  static void validateAge(int age) throws InvalidAgeException {
      if (age < 18) {
          throw new InvalidAgeException("Age must be 18 or above");
