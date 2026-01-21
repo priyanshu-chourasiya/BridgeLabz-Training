@@ -123,5 +123,11 @@ Week 4-5: Java Collections Practice
 | 15-Jan  | Generics DSA secnario based    | 3 scenario 4 Generics           |
 | 16-Jan  | Collections DSA secnario based | 3 scenario 5 Collections        |
 | 17-Jan  | Collections DSA secnario based | 3 scenario 8 Collections        |
-| 17-Jan  | OOPs and DSA secnario based    | 3 scenario 3 scenario           |
+| 19-Jan  | Streams secnario based         | 5 Streams  3 scenario           |
+```
+------------
+
+## Week 6
+```
+| 20-Jan  | Exceptions and secnario based  | 6 Excpetions 3 scenario         |
 ```
